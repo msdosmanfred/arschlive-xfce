@@ -5,9 +5,11 @@ Operation = Upgrade
 Operation = Remove
 Type = Package
 Target = *
+
 [Action]
-Depends = coreutils
 When = PostTransaction
-Exec = /usr/bin/ldconfig
+Depends = sh
+Depends = coreutils
+Exec = /bin/sh -c "rm /etc/mkinitcpio.d/linux.preset"
 
 
