@@ -164,6 +164,8 @@ dbus
 #i3
 xfce4
 xfce4-goodies
+lightdm
+lightdm-gtk-greeter
 arschlive-xfce-settings-git
 
 # Eyecandy
