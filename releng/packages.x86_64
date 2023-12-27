@@ -174,12 +174,14 @@ arschlive-config-xfce-git
 archlinux-wallpaper
 full-dracula-theme-git
 dracula-icons-git
+dracula-grub-theme-git
 kvantum
 bibata-cursor-theme-bin
 bibata-extra-cursor-theme
 powerline-console-fonts
 ttf-ms-fonts
 plymouth
+plymouth-theme-dracula-git
 #nerd-fonts
 
 # Internetz
