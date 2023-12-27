@@ -166,6 +166,7 @@ xfce4
 xfce4-goodies
 lightdm
 lightdm-gtk-greeter
+sddm
 arschlive-config-xfce-git
 
 # Eyecandy
