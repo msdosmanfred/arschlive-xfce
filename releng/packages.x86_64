@@ -162,10 +162,9 @@ desktop-file-utils
 dbus
 #rofi
 #i3
-plasma-meta
-kde-system
-konsole
-kf5
+xfce4
+xfce4-goodies
+arschlive-xfce-settings-git
 
 # Eyecandy
 archlinux-wallpaper
@@ -184,6 +183,7 @@ firefox-i18n-de
 
 # Wichtige Systemdienste
 networkmanager
+network-manager-applet
 xdg-user-dirs
 
 # Sound
