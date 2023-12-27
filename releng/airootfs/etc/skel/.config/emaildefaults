@@ -1,0 +1,10 @@
+[Defaults]
+Profile=Standard
+
+[PROFILE_Standard]
+EmailAddress=
+FullName=MS-DOS Manfred
+Organization=
+ReplyAddr=
+ServerType=
+TerminalClient=false

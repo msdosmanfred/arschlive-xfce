@@ -1,0 +1,335 @@
+[file:///home/alex/alci-iso/alci-iso-zen/archiso/packages.x86_64]
+Bookmarks=
+Checksum=0c55dc2fec8eba53af72c4580f50b181c00f3c28
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,12,12,17,17,7.17
+URL=file:///home/alex/alci-iso/alci-iso-zen/archiso/packages.x86_64
+
+[file:///home/alex/alci-iso/alci-iso-zen/archiso/profiledef.sh]
+Bookmarks=
+Checksum=f88d36145d9561610c36c9681918579ffa486524
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2023,12,12,17,14,20.325
+URL=file:///home/alex/alci-iso/alci-iso-zen/archiso/profiledef.sh
+
+[file:///home/alex/alci-iso/archiso/airootfs/etc/skel/.Xresources]
+Bookmarks=
+Checksum=368ec2c209f02967a6ca034f2b6835eec58ef316
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,12,12,19,26,51.43
+URL=file:///home/alex/alci-iso/archiso/airootfs/etc/skel/.Xresources
+
+[file:///home/alex/alci-iso/archiso/airootfs/etc/sudoers.d/g_wheel]
+Bookmarks=
+Checksum=bbad9889108c7fb93df84bcc026e1becd83e28fa
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,12,12,19,29,0.27
+URL=file:///home/alex/alci-iso/archiso/airootfs/etc/sudoers.d/g_wheel
+
+[file:///home/alex/alci-iso/installation-scripts/40-build-the-iso-local-again.sh]
+Bookmarks=
+Checksum=b7ec55a4ae2d6c09900968d72bc37fe1d9a20d63
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2023,12,12,19,25,49.036
+URL=file:///home/alex/alci-iso/installation-scripts/40-build-the-iso-local-again.sh
+
+[file:///home/alex/iso/arsch-custom/output/arch/pkglist.x86_64.txt]
+Bookmarks=
+Checksum=5785abb6db7a30d2b13d81182167d6de26982b7e
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,12,13,15,37,36.146
+URL=file:///home/alex/iso/arsch-custom/output/arch/pkglist.x86_64.txt
+
+[file:///home/alex/iso/arsch-custom/releng/airootfs/etc/calamares/branding/default/stylesheet.qss]
+Bookmarks=
+Checksum=6c4d3f9ee0b0a38a67591119cfa55186aceb01de
+Encoding=UTF-8
+Highlighting=C
+Highlighting Set By User=false
+Indentation Mode=cstyle
+Mode=C
+Mode Set By User=false
+Time=2023,12,13,11,50,45.037
+URL=file:///home/alex/iso/arsch-custom/releng/airootfs/etc/calamares/branding/default/stylesheet.qss
+
+[file:///home/alex/iso/arsch-custom/releng/airootfs/etc/calamares/settings.conf]
+Bookmarks=
+Checksum=1e55959de9c4a2d910238a46ac13704302103b9a
+Encoding=UTF-8
+Highlighting=TOML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=TOML
+Mode Set By User=false
+Time=2023,12,13,11,51,40.551
+URL=file:///home/alex/iso/arsch-custom/releng/airootfs/etc/calamares/settings.conf
+
+[file:///home/alex/iso/arsch-custom/releng/airootfs/etc/locale.conf]
+Bookmarks=
+Checksum=f9c983cc4d7246f708f0882e4a5acbe8a999d57f
+Encoding=UTF-8
+Highlighting=TOML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=TOML
+Mode Set By User=false
+Time=2023,12,12,22,49,29.615
+URL=file:///home/alex/iso/arsch-custom/releng/airootfs/etc/locale.conf
+
+[file:///home/alex/iso/arsch-custom/releng/airootfs/etc/skel/.config/Trolltech.conf]
+Bookmarks=
+Checksum=71bf7b65847591150f29206d8a4475ab650a7009
+Encoding=UTF-8
+Highlighting=TOML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=TOML
+Mode Set By User=false
+Time=2023,12,12,22,27,16.146
+URL=file:///home/alex/iso/arsch-custom/releng/airootfs/etc/skel/.config/Trolltech.conf
+
+[file:///home/alex/iso/arsch-custom/releng/airootfs/etc/skel/.config/dolphinrc]
+Bookmarks=
+Checksum=39c87a7287d36a59a68a7f9e4723cce4afc31f9f
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,12,12,22,23,31.579
+URL=file:///home/alex/iso/arsch-custom/releng/airootfs/etc/skel/.config/dolphinrc
+
+[file:///home/alex/iso/arsch-custom/releng/airootfs/etc/skel/.config/kcminputrc]
+Bookmarks=
+Checksum=c862a63728cbcd29e7e4402d59c2eaf6a5b49ffc
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,12,12,22,50,23.809
+URL=file:///home/alex/iso/arsch-custom/releng/airootfs/etc/skel/.config/kcminputrc
+
+[file:///home/alex/iso/arsch-custom/releng/airootfs/etc/skel/.config/kconf_updaterc]
+Bookmarks=
+Checksum=d4bd1aceea91b5829ade54355eb445e84d731ffc
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,12,12,22,50,33.718
+URL=file:///home/alex/iso/arsch-custom/releng/airootfs/etc/skel/.config/kconf_updaterc
+
+[file:///home/alex/iso/arsch-custom/releng/airootfs/etc/skel/.config/kde.org/systemsettings.conf]
+Bookmarks=
+Checksum=11c7450796f20ce8ab30c3e8b415edebbae57dc5
+Encoding=UTF-8
+Highlighting=TOML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=TOML
+Mode Set By User=false
+Time=2023,12,12,22,28,29.646
+URL=file:///home/alex/iso/arsch-custom/releng/airootfs/etc/skel/.config/kde.org/systemsettings.conf
+
+[file:///home/alex/iso/arsch-custom/releng/airootfs/etc/skel/.config/kded5rc]
+Bookmarks=
+Checksum=938d3afb61460064f62eaf97b9b5d636bba2ee61
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,12,12,22,50,49.333
+URL=file:///home/alex/iso/arsch-custom/releng/airootfs/etc/skel/.config/kded5rc
+
+[file:///home/alex/iso/arsch-custom/releng/airootfs/etc/skel/.config/kdedefaults/kcminputrc]
+Bookmarks=
+Checksum=5a7f03fe79c91f771c72ee53ecd5455ccbb87794
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,12,12,22,24,40.37
+URL=file:///home/alex/iso/arsch-custom/releng/airootfs/etc/skel/.config/kdedefaults/kcminputrc
+
+[file:///home/alex/iso/arsch-custom/releng/airootfs/etc/skel/.config/kdeglobals]
+Bookmarks=
+Checksum=e47b6deb5319f695b4ff40ab80c0e7f3d2a26280
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,12,12,22,50,59.023
+URL=file:///home/alex/iso/arsch-custom/releng/airootfs/etc/skel/.config/kdeglobals
+
+[file:///home/alex/iso/arsch-custom/releng/airootfs/etc/skel/.config/khotkeysrc]
+Bookmarks=
+Checksum=934b98088cc5077b7d3fda2f385a5f4c190a9297
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,12,12,22,51,35.386
+URL=file:///home/alex/iso/arsch-custom/releng/airootfs/etc/skel/.config/khotkeysrc
+
+[file:///home/alex/iso/arsch-custom/releng/airootfs/etc/skel/.config/ksmserverrc]
+Bookmarks=
+Checksum=8c3066a84e8f17dfb4bf090d90f83639da312a42
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,12,12,22,26,6.542
+URL=file:///home/alex/iso/arsch-custom/releng/airootfs/etc/skel/.config/ksmserverrc
+
+[file:///home/alex/iso/arsch-custom/releng/airootfs/etc/skel/.config/kwinrc]
+Bookmarks=
+Checksum=4a78acb3c9e2b4bb7bd7d2503af842924147b0cc
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,12,12,22,26,25.632
+URL=file:///home/alex/iso/arsch-custom/releng/airootfs/etc/skel/.config/kwinrc
+
+[file:///home/alex/iso/arsch-custom/releng/airootfs/etc/skel/.config/mc/ini]
+Bookmarks=
+Checksum=73033543f32d2e1665657e7e21e08bd193748fc7
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,12,12,22,29,24.575
+URL=file:///home/alex/iso/arsch-custom/releng/airootfs/etc/skel/.config/mc/ini
+
+[file:///home/alex/iso/arsch-custom/releng/airootfs/etc/skel/.config/mc/panels.ini]
+Bookmarks=
+Checksum=e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+Encoding=UTF-8
+Highlighting=INI Files
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=INI Files
+Mode Set By User=false
+Time=2023,12,12,22,29,39.206
+URL=file:///home/alex/iso/arsch-custom/releng/airootfs/etc/skel/.config/mc/panels.ini
+
+[file:///home/alex/iso/arsch-custom/releng/airootfs/etc/skel/.config/mimeapps.list]
+Bookmarks=
+Checksum=3913d65d6ce6c423c02703cfd787daa9a82ffbf4
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,12,12,22,52,33.065
+URL=file:///home/alex/iso/arsch-custom/releng/airootfs/etc/skel/.config/mimeapps.list
+
+[file:///home/alex/iso/arsch-custom/releng/airootfs/etc/skel/.config/plasma-localerc]
+Bookmarks=
+Checksum=98e6fb1c294a4507be0ae237d1e427163aec5fb1
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,12,12,22,23,5.584
+URL=file:///home/alex/iso/arsch-custom/releng/airootfs/etc/skel/.config/plasma-localerc
+
+[file:///home/alex/iso/arsch-custom/releng/airootfs/etc/skel/.config/plasmashellrc]
+Bookmarks=
+Checksum=db1eba1ac9a0a3d31a8c29e44e3e454636edca0b
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,12,12,22,30,20.441
+URL=file:///home/alex/iso/arsch-custom/releng/airootfs/etc/skel/.config/plasmashellrc
+
+[file:///home/alex/iso/arsch-custom/releng/airootfs/etc/skel/.config/user-dirs.dirs]
+Bookmarks=
+Checksum=9fd7b5fb312d7b835cce88929c0c72e438fd0cf2
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,12,12,22,22,40.214
+URL=file:///home/alex/iso/arsch-custom/releng/airootfs/etc/skel/.config/user-dirs.dirs
+
+[file:///home/alex/iso/arsch-custom/releng/airootfs/etc/skel/.config/xsettingsd/xsettingsd.conf]
+Bookmarks=
+Checksum=8aafe9ae0cad66022fff1b5b65da6a2c4ef5cda5
+Encoding=UTF-8
+Highlighting=TOML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=TOML
+Mode Set By User=false
+Time=2023,12,12,22,24,3.509
+URL=file:///home/alex/iso/arsch-custom/releng/airootfs/etc/skel/.config/xsettingsd/xsettingsd.conf
+
+[file:///home/alex/isos/custom-arch-2312/releng/packages.x86_64]
+Bookmarks=
+Checksum=2675edcd070858936a676f072e13d27d5592dcf6
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,12,12,17,17,6.6530000000000005
+URL=file:///home/alex/isos/custom-arch-2312/releng/packages.x86_64

@@ -1,0 +1,12 @@
+#!/bin/sh
+exec tail -n +3 $0
+
+menuentry "Reboot" --class restart {
+     echo "System rebooting..."
+     reboot
+}
+
+menuentry "Poweroff" --class shutdown {
+     echo "System shuttong down..."
+     halt
+}
