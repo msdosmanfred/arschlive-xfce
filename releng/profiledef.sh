@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="arschlive-kde"
+iso_name="arschlive-xfce"
 iso_label="ARSCH_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y%m)"
 iso_publisher="MS-DOS Manfred"
-iso_application="ArschLive KDE GNU/Linux Install/Live/Rescue CD"
+iso_application="ArschLive XFCE GNU/Linux Install/Live/Rescue CD"
 iso_version="$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y.%m.%d)"
 install_dir="arch"
 buildmodes=('iso')
