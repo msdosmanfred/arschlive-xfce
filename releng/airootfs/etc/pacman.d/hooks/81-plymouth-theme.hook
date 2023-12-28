@@ -1,0 +1,13 @@
+# remove from airootfs!
+[Trigger]
+Operation = Install
+Operation = Upgrade
+Operation = Remove
+Type = Package
+Target = *
+[Action]
+Depends = plymouth-theme-dracula-git
+When = PostTransaction
+Exec = /usr/bin/plymouth-set-default-theme -R dracula
+
+
