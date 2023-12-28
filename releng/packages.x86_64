@@ -50,7 +50,6 @@ lftp
 libfido2
 libusb-compat
 linux
-linux-zen
 linux-atm
 linux-firmware
 linux-firmware-marvell
@@ -118,7 +117,7 @@ usb_modeswitch
 usbmuxd
 usbutils
 vim
-virtualbox-guest-utils-nox
+virtualbox-guest-utils
 vpnc
 wezterm-terminfo
 wireless-regdb
@@ -136,50 +135,40 @@ fish
 # den Installer
 calamares
 arschlive-config-calamares-git
-yay-bin
-paru-bin
 
 # wichtige Tools
 vifm
 neovim
-rcm
-update-grub
-timeshift-autosnap
-grub-btrfs
-mc
 htop
 gotop
-subversion
-termite
-alacritty
-alacritty-themes
-bitwarden
 
 # GUI
 xorg
-xorg-apps
-xorg-drivers
+xf86-video-amdgpu
+xf86-video-intel
+xf86-video-qxl
+xf86-video-vmware
+xf86-video-vesa
+xf86-video-nouveau
+xf86-input-vmmouse
+xf86-input-synaptics
 desktop-file-utils
 dbus
 #rofi
 #i3
 xfce4
-xfce4-goodies
 lightdm
 lightdm-gtk-greeter
 sddm
 arschlive-config-xfce-git
 
 # Eyecandy
-archlinux-wallpaper
 full-dracula-theme-git
 dracula-icons-git
 dracula-grub-theme-git
-kvantum
 bibata-cursor-theme-bin
 bibata-extra-cursor-theme
 powerline-console-fonts
-ttf-ms-fonts
 plymouth
 plymouth-theme-dracula-git
 #nerd-fonts
