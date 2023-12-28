@@ -8,6 +8,6 @@ Target = *
 [Action]
 Depends = plymouth-theme-dracula-git
 When = PostTransaction
-Exec = /usr/bin/plymouth-set-default-theme -R dracula
+Exec = /usr/bin/plymouth-set-default-theme dracula
 
 
