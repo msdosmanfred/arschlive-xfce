@@ -64,7 +64,6 @@ memtest86+
 memtest86+-efi
 mkinitcpio
 mkinitcpio-archiso
-mkinitcpio-firmware
 mkinitcpio-nfs-utils
 modemmanager
 mtools
