@@ -135,7 +135,7 @@ fish
 
 # den Installer
 calamares
-calamares-settings-git
+arschlive-config-calamares-git
 yay-bin
 paru-bin
 
