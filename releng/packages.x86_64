@@ -178,7 +178,7 @@ bibata-extra-cursor-theme
 powerline-console-fonts
 plymouth
 plymouth-theme-dracula-git
-nerd-fonts
+ttf-mononoki-nerd
 shell-color-scripts
 neofetch
 starship
