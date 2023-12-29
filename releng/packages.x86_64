@@ -184,6 +184,7 @@ firefox-i18n-de
 networkmanager
 network-manager-applet
 xdg-user-dirs
+rng-tools
 
 # Sound
 pipewire
