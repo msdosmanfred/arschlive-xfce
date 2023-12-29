@@ -165,6 +165,7 @@ lightdm-gtk-greeter
 sddm
 arschlive-config-xfce-git
 arschlive-config-fish-git
+arschlive-config-starship-git
 arschlive-config-polybar-git
 arschlive-config-plasma-git
 arschlive-config-i3-git
