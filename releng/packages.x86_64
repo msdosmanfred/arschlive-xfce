@@ -179,6 +179,9 @@ powerline-console-fonts
 plymouth
 plymouth-theme-dracula-git
 nerd-fonts
+shell-color-scripts
+neofetch
+starship
 
 # Internetz
 firefox
