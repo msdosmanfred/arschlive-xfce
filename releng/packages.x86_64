@@ -163,6 +163,7 @@ xfce4-whiskermenu-plugin
 lightdm
 lightdm-gtk-greeter
 sddm
+gparted
 arschlive-config-xfce-git
 arschlive-config-fish-git
 arschlive-config-starship-git
