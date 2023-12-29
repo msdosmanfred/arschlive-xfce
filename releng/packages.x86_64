@@ -164,6 +164,10 @@ lightdm
 lightdm-gtk-greeter
 sddm
 arschlive-config-xfce-git
+arschlive-config-fish-git
+arschlive-config-polybar-git
+arschlive-config-plasma-git
+arschlive-config-i3-git
 
 # Eyecandy
 full-dracula-theme-git
@@ -174,7 +178,7 @@ bibata-extra-cursor-theme
 powerline-console-fonts
 plymouth
 plymouth-theme-dracula-git
-#nerd-fonts
+nerd-fonts
 
 # Internetz
 firefox
