@@ -15,6 +15,7 @@ cryptsetup
 darkhttpd
 ddrescue
 dhclient
+dhcpcd
 diffutils
 dmidecode
 dmraid
