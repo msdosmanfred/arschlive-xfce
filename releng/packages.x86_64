@@ -159,6 +159,7 @@ dbus
 #rofi
 #i3
 xfce4
+xfce4-whiskermenu-plugin
 lightdm
 lightdm-gtk-greeter
 sddm
