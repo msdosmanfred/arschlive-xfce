@@ -183,7 +183,7 @@ powerline-console-fonts
 plymouth
 plymouth-theme-dracula-git
 ttf-mononoki-nerd
-#shell-color-scripts
+shell-color-scripts
 neofetch
 starship
 
